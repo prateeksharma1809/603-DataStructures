@@ -1,0 +1,54 @@
+Gate capacity: 8
+Aircraft capacity: 5
+Reading passenger data from data_10.txt
+Beginning simulation...
+Passengers are lining up at the gate...
+	 Austin Todd Leonardi, ticket: 20009, carry_on: False
+	 Zeke Francis Zwerka, ticket: 20005, carry_on: True
+	 Diana Christina Simmons, ticket: 30010, carry_on: False
+	 Gregg Constantino Miller, ticket: 30002, carry_on: True
+	 Austin Wolf, ticket: 40003, carry_on: True
+	 Tyler Christopher Wolf, ticket: 10004, carry_on: False
+	 Frank George Golden, ticket: 10008, carry_on: True
+	 Brett Michael Kirkwood, ticket: 40011, carry_on: False
+The gate is full; remaining passengers must wait.
+Passengers are boarding the aircraft...
+	 Austin Wolf, ticket: 40003, carry_on: True
+	 Brett Michael Kirkwood, ticket: 40011, carry_on: False
+	 Diana Christina Simmons, ticket: 30010, carry_on: False
+	 Gregg Constantino Miller, ticket: 30002, carry_on: True
+	 Austin Todd Leonardi, ticket: 20009, carry_on: False
+The aircraft is full.
+Ready for taking off ...
+The aircraft has landed.
+Passengers are disembarking...
+	 Austin Todd Leonardi, ticket: 20009, carry_on: False
+	 Diana Christina Simmons, ticket: 30010, carry_on: False
+	 Brett Michael Kirkwood, ticket: 40011, carry_on: False
+	 Gregg Constantino Miller, ticket: 30002, carry_on: True
+	 Austin Wolf, ticket: 40003, carry_on: True
+Passengers are boarding the aircraft...
+	 Zeke Francis Zwerka, ticket: 20005, carry_on: True
+	 Tyler Christopher Wolf, ticket: 10004, carry_on: False
+	 Frank George Golden, ticket: 10008, carry_on: True
+There are no more passengers at the gate.
+Ready for taking off ...
+The aircraft has landed.
+Passengers are disembarking...
+	 Tyler Christopher Wolf, ticket: 10004, carry_on: False
+	 Frank George Golden, ticket: 10008, carry_on: True
+	 Zeke Francis Zwerka, ticket: 20005, carry_on: True
+Passengers are lining up at the gate...
+	 Lucas Becker, ticket: 40007, carry_on: True
+	 Catherine Toper, ticket: 30006, carry_on: False
+The last passenger is in line!
+Passengers are boarding the aircraft...
+	 Lucas Becker, ticket: 40007, carry_on: True
+	 Catherine Toper, ticket: 30006, carry_on: False
+There are no more passengers at the gate.
+Ready for taking off ...
+The aircraft has landed.
+Passengers are disembarking...
+	 Catherine Toper, ticket: 30006, carry_on: False
+	 Lucas Becker, ticket: 40007, carry_on: True
+Simulation complete. Statistics: 3 flights, 10 passengers are at their destination

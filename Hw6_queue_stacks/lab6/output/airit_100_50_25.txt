@@ -1,0 +1,329 @@
+Gate capacity: 50
+Aircraft capacity: 25
+Reading passenger data from data_100.txt
+Beginning simulation...
+Passengers are lining up at the gate...
+	 Trevor J Donelly-Higgins, ticket: 10068, carry_on: True
+	 Austin Todd Schleicher, ticket: 30026, carry_on: False
+	 Chris A Leonardi, ticket: 10012, carry_on: False
+	 Gabi M Foley, ticket: 30090, carry_on: True
+	 Ryan Thomas Missel, ticket: 10036, carry_on: True
+	 Soo Moran, ticket: 30038, carry_on: True
+	 Faisal Rashed Simmons, ticket: 40019, carry_on: True
+	 Lucas Poliwoda, ticket: 10016, carry_on: True
+	 Ryan Thomas Reynolds, ticket: 10060, carry_on: False
+	 Bridget Stepanida Gagliardi, ticket: 20073, carry_on: True
+	 Simon James Cruz, ticket: 10032, carry_on: True
+	 Trevor J Wolf, ticket: 10020, carry_on: False
+	 Will Mason Drake Gonzalez, ticket: 30002, carry_on: False
+	 Joseph C Mancini, ticket: 10008, carry_on: False
+	 Will Taylor Toper, ticket: 10096, carry_on: False
+	 Tyler Aramis Maloney, ticket: 20093, carry_on: False
+	 Ji Sook Higgins, ticket: 40071, carry_on: False
+	 Steven A Dupree, ticket: 20025, carry_on: True
+	 Bendrix Nakuusiaq Bailey, ticket: 30094, carry_on: False
+	 Charles Kinsey, ticket: 30022, carry_on: False
+	 Joseph C Tucker, ticket: 10044, carry_on: True
+	 Dylan Yakobchuk, ticket: 20069, carry_on: True
+	 Benjamin M Pfluke, ticket: 30030, carry_on: True
+	 Austin Todd Clifford, ticket: 30078, carry_on: False
+	 Charles Gola, ticket: 10084, carry_on: True
+	 Rachel Marie Grudzinski, ticket: 10088, carry_on: False
+	 Michael Robert Gross, ticket: 20021, carry_on: False
+	 David Rodrigo Tran, ticket: 30014, carry_on: True
+	 Alyssa T Wolf, ticket: 10028, carry_on: False
+	 Faisal Rashed Pastore III, ticket: 30050, carry_on: False
+	 Joseph C Sgambati, ticket: 20097, carry_on: False
+	 Kiera Kinsey, ticket: 20061, carry_on: False
+	 Charles Grudzinski, ticket: 40087, carry_on: True
+	 Charles Kozak, ticket: 20009, carry_on: True
+	 Scott Alex Ickes, ticket: 40067, carry_on: True
+	 Ally Marie Ferreira, ticket: 40079, carry_on: True
+	 Bendrix Nakuusiaq Shin, ticket: 20081, carry_on: False
+	 Andrew Benjamin Pfluke, ticket: 40023, carry_on: True
+	 Thomas Peter Poliwoda, ticket: 30034, carry_on: True
+	 Jessy Gola, ticket: 20049, carry_on: True
+	 Bridget Stepanida Pfluke, ticket: 40091, carry_on: True
+	 Simon James Feng, ticket: 10024, carry_on: True
+	 Simon James Zwerka, ticket: 40007, carry_on: True
+	 Joseph C Missel, ticket: 40055, carry_on: False
+	 Scott Alex Tran, ticket: 20045, carry_on: False
+	 Noah Carlton Schleicher, ticket: 30070, carry_on: False
+	 Rachel Marie Nguyen, ticket: 30010, carry_on: True
+	 Will Taylor Gonzalez, ticket: 40075, carry_on: False
+	 Anjaneya Golden, ticket: 10064, carry_on: False
+	 Noah Carlton Pfluke, ticket: 30006, carry_on: False
+The gate is full; remaining passengers must wait.
+Passengers are boarding the aircraft...
+	 Faisal Rashed Simmons, ticket: 40019, carry_on: True
+	 Ji Sook Higgins, ticket: 40071, carry_on: False
+	 Charles Grudzinski, ticket: 40087, carry_on: True
+	 Scott Alex Ickes, ticket: 40067, carry_on: True
+	 Ally Marie Ferreira, ticket: 40079, carry_on: True
+	 Andrew Benjamin Pfluke, ticket: 40023, carry_on: True
+	 Bridget Stepanida Pfluke, ticket: 40091, carry_on: True
+	 Simon James Zwerka, ticket: 40007, carry_on: True
+	 Joseph C Missel, ticket: 40055, carry_on: False
+	 Will Taylor Gonzalez, ticket: 40075, carry_on: False
+	 Austin Todd Schleicher, ticket: 30026, carry_on: False
+	 Gabi M Foley, ticket: 30090, carry_on: True
+	 Soo Moran, ticket: 30038, carry_on: True
+	 Will Mason Drake Gonzalez, ticket: 30002, carry_on: False
+	 Bendrix Nakuusiaq Bailey, ticket: 30094, carry_on: False
+	 Charles Kinsey, ticket: 30022, carry_on: False
+	 Benjamin M Pfluke, ticket: 30030, carry_on: True
+	 Austin Todd Clifford, ticket: 30078, carry_on: False
+	 David Rodrigo Tran, ticket: 30014, carry_on: True
+	 Faisal Rashed Pastore III, ticket: 30050, carry_on: False
+	 Thomas Peter Poliwoda, ticket: 30034, carry_on: True
+	 Noah Carlton Schleicher, ticket: 30070, carry_on: False
+	 Rachel Marie Nguyen, ticket: 30010, carry_on: True
+	 Noah Carlton Pfluke, ticket: 30006, carry_on: False
+	 Bridget Stepanida Gagliardi, ticket: 20073, carry_on: True
+The aircraft is full.
+Ready for taking off ...
+The aircraft has landed.
+Passengers are disembarking...
+	 Noah Carlton Pfluke, ticket: 30006, carry_on: False
+	 Noah Carlton Schleicher, ticket: 30070, carry_on: False
+	 Faisal Rashed Pastore III, ticket: 30050, carry_on: False
+	 Austin Todd Clifford, ticket: 30078, carry_on: False
+	 Charles Kinsey, ticket: 30022, carry_on: False
+	 Bendrix Nakuusiaq Bailey, ticket: 30094, carry_on: False
+	 Will Mason Drake Gonzalez, ticket: 30002, carry_on: False
+	 Austin Todd Schleicher, ticket: 30026, carry_on: False
+	 Will Taylor Gonzalez, ticket: 40075, carry_on: False
+	 Joseph C Missel, ticket: 40055, carry_on: False
+	 Ji Sook Higgins, ticket: 40071, carry_on: False
+	 Bridget Stepanida Gagliardi, ticket: 20073, carry_on: True
+	 Rachel Marie Nguyen, ticket: 30010, carry_on: True
+	 Thomas Peter Poliwoda, ticket: 30034, carry_on: True
+	 David Rodrigo Tran, ticket: 30014, carry_on: True
+	 Benjamin M Pfluke, ticket: 30030, carry_on: True
+	 Soo Moran, ticket: 30038, carry_on: True
+	 Gabi M Foley, ticket: 30090, carry_on: True
+	 Simon James Zwerka, ticket: 40007, carry_on: True
+	 Bridget Stepanida Pfluke, ticket: 40091, carry_on: True
+	 Andrew Benjamin Pfluke, ticket: 40023, carry_on: True
+	 Ally Marie Ferreira, ticket: 40079, carry_on: True
+	 Scott Alex Ickes, ticket: 40067, carry_on: True
+	 Charles Grudzinski, ticket: 40087, carry_on: True
+	 Faisal Rashed Simmons, ticket: 40019, carry_on: True
+Passengers are boarding the aircraft...
+	 Tyler Aramis Maloney, ticket: 20093, carry_on: False
+	 Steven A Dupree, ticket: 20025, carry_on: True
+	 Dylan Yakobchuk, ticket: 20069, carry_on: True
+	 Michael Robert Gross, ticket: 20021, carry_on: False
+	 Joseph C Sgambati, ticket: 20097, carry_on: False
+	 Kiera Kinsey, ticket: 20061, carry_on: False
+	 Charles Kozak, ticket: 20009, carry_on: True
+	 Bendrix Nakuusiaq Shin, ticket: 20081, carry_on: False
+	 Jessy Gola, ticket: 20049, carry_on: True
+	 Scott Alex Tran, ticket: 20045, carry_on: False
+	 Trevor J Donelly-Higgins, ticket: 10068, carry_on: True
+	 Chris A Leonardi, ticket: 10012, carry_on: False
+	 Ryan Thomas Missel, ticket: 10036, carry_on: True
+	 Lucas Poliwoda, ticket: 10016, carry_on: True
+	 Ryan Thomas Reynolds, ticket: 10060, carry_on: False
+	 Simon James Cruz, ticket: 10032, carry_on: True
+	 Trevor J Wolf, ticket: 10020, carry_on: False
+	 Joseph C Mancini, ticket: 10008, carry_on: False
+	 Will Taylor Toper, ticket: 10096, carry_on: False
+	 Joseph C Tucker, ticket: 10044, carry_on: True
+	 Charles Gola, ticket: 10084, carry_on: True
+	 Rachel Marie Grudzinski, ticket: 10088, carry_on: False
+	 Alyssa T Wolf, ticket: 10028, carry_on: False
+	 Simon James Feng, ticket: 10024, carry_on: True
+	 Anjaneya Golden, ticket: 10064, carry_on: False
+The aircraft is full.
+Ready for taking off ...
+The aircraft has landed.
+Passengers are disembarking...
+	 Anjaneya Golden, ticket: 10064, carry_on: False
+	 Alyssa T Wolf, ticket: 10028, carry_on: False
+	 Rachel Marie Grudzinski, ticket: 10088, carry_on: False
+	 Will Taylor Toper, ticket: 10096, carry_on: False
+	 Joseph C Mancini, ticket: 10008, carry_on: False
+	 Trevor J Wolf, ticket: 10020, carry_on: False
+	 Ryan Thomas Reynolds, ticket: 10060, carry_on: False
+	 Chris A Leonardi, ticket: 10012, carry_on: False
+	 Scott Alex Tran, ticket: 20045, carry_on: False
+	 Bendrix Nakuusiaq Shin, ticket: 20081, carry_on: False
+	 Kiera Kinsey, ticket: 20061, carry_on: False
+	 Joseph C Sgambati, ticket: 20097, carry_on: False
+	 Michael Robert Gross, ticket: 20021, carry_on: False
+	 Tyler Aramis Maloney, ticket: 20093, carry_on: False
+	 Simon James Feng, ticket: 10024, carry_on: True
+	 Charles Gola, ticket: 10084, carry_on: True
+	 Joseph C Tucker, ticket: 10044, carry_on: True
+	 Simon James Cruz, ticket: 10032, carry_on: True
+	 Lucas Poliwoda, ticket: 10016, carry_on: True
+	 Ryan Thomas Missel, ticket: 10036, carry_on: True
+	 Trevor J Donelly-Higgins, ticket: 10068, carry_on: True
+	 Jessy Gola, ticket: 20049, carry_on: True
+	 Charles Kozak, ticket: 20009, carry_on: True
+	 Dylan Yakobchuk, ticket: 20069, carry_on: True
+	 Steven A Dupree, ticket: 20025, carry_on: True
+Passengers are lining up at the gate...
+	 Tyler Christopher Tran, ticket: 20029, carry_on: False
+	 Zach C Becker, ticket: 10048, carry_on: False
+	 Asha Zara Lockhart, ticket: 30018, carry_on: False
+	 Charles Higgins, ticket: 20017, carry_on: True
+	 Joshua D Gonzalez, ticket: 40003, carry_on: True
+	 Steven A Phouthavong, ticket: 40043, carry_on: False
+	 Victoria Galarza, ticket: 40063, carry_on: True
+	 Parker Robert Quispe, ticket: 30054, carry_on: True
+	 Austin Donelly-Higgins, ticket: 20085, carry_on: True
+	 Austin Todd Daly, ticket: 30042, carry_on: False
+	 Kiera Frauenknecht, ticket: 20101, carry_on: False
+	 Joshua D Pastore III, ticket: 10072, carry_on: True
+	 Sean Thomas Phouthavong, ticket: 20037, carry_on: False
+	 Thomas Peter Tucker, ticket: 20053, carry_on: False
+	 Patrick Jackson, ticket: 10040, carry_on: False
+	 Srikanth Miller, ticket: 10080, carry_on: True
+	 Daniel Eduardo Carnation, ticket: 40015, carry_on: False
+	 Katie Anne Leonardi, ticket: 40027, carry_on: False
+	 Steven A Phouthavong, ticket: 10076, carry_on: False
+	 Srikanth Bissen, ticket: 30062, carry_on: True
+	 Justin Bradley Segraves, ticket: 40035, carry_on: True
+	 Will Taylor Gola, ticket: 40031, carry_on: True
+	 Joshua D Kozak, ticket: 20077, carry_on: False
+	 Mark Anthony Carnation, ticket: 10100, carry_on: True
+	 Brendan Lawrence Dorrell, ticket: 20057, carry_on: True
+	 Bendrix Nakuusiaq Higgins, ticket: 40039, carry_on: True
+	 Daniel Eduardo Bailey, ticket: 40051, carry_on: False
+	 Leiah Moon, ticket: 40059, carry_on: False
+	 Conor Gregory Kinsey, ticket: 20065, carry_on: True
+	 Diana Christina McGlynn, ticket: 20033, carry_on: True
+	 Max Wolf, ticket: 30086, carry_on: False
+	 Chris A Gonzalez, ticket: 30058, carry_on: True
+	 Xian Harris-Battles, ticket: 20089, carry_on: False
+	 Kiera Meilunas, ticket: 40011, carry_on: False
+	 Catherine Ferreira, ticket: 20013, carry_on: True
+	 Blaise Grudzinski, ticket: 40095, carry_on: False
+	 Soo Yakobchuk, ticket: 10056, carry_on: False
+	 Will Taylor McGlynn, ticket: 10004, carry_on: False
+	 Junaid Donelly-Higgins, ticket: 30074, carry_on: False
+	 Cindy Baba, ticket: 10092, carry_on: True
+	 Brett Michael Gonzalez, ticket: 30046, carry_on: True
+	 Rebecca Tamar Gola, ticket: 30098, carry_on: False
+	 Joshua D Moon, ticket: 30066, carry_on: True
+	 Soo Tucker, ticket: 40083, carry_on: True
+	 Rachel Marie Peryer Jr, ticket: 20041, carry_on: False
+	 Patrick Ickes, ticket: 30082, carry_on: False
+	 Josh Matthew Fried, ticket: 10052, carry_on: True
+	 Max Nasir, ticket: 40047, carry_on: False
+	 Christian Sgambati, ticket: 20005, carry_on: True
+	 Gabi M Clifford, ticket: 40099, carry_on: True
+The gate is full; remaining passengers must wait.
+Passengers are boarding the aircraft...
+	 Joshua D Gonzalez, ticket: 40003, carry_on: True
+	 Steven A Phouthavong, ticket: 40043, carry_on: False
+	 Victoria Galarza, ticket: 40063, carry_on: True
+	 Daniel Eduardo Carnation, ticket: 40015, carry_on: False
+	 Katie Anne Leonardi, ticket: 40027, carry_on: False
+	 Justin Bradley Segraves, ticket: 40035, carry_on: True
+	 Will Taylor Gola, ticket: 40031, carry_on: True
+	 Bendrix Nakuusiaq Higgins, ticket: 40039, carry_on: True
+	 Daniel Eduardo Bailey, ticket: 40051, carry_on: False
+	 Leiah Moon, ticket: 40059, carry_on: False
+	 Kiera Meilunas, ticket: 40011, carry_on: False
+	 Blaise Grudzinski, ticket: 40095, carry_on: False
+	 Soo Tucker, ticket: 40083, carry_on: True
+	 Max Nasir, ticket: 40047, carry_on: False
+	 Gabi M Clifford, ticket: 40099, carry_on: True
+	 Asha Zara Lockhart, ticket: 30018, carry_on: False
+	 Parker Robert Quispe, ticket: 30054, carry_on: True
+	 Austin Todd Daly, ticket: 30042, carry_on: False
+	 Srikanth Bissen, ticket: 30062, carry_on: True
+	 Max Wolf, ticket: 30086, carry_on: False
+	 Chris A Gonzalez, ticket: 30058, carry_on: True
+	 Junaid Donelly-Higgins, ticket: 30074, carry_on: False
+	 Brett Michael Gonzalez, ticket: 30046, carry_on: True
+	 Rebecca Tamar Gola, ticket: 30098, carry_on: False
+	 Joshua D Moon, ticket: 30066, carry_on: True
+The aircraft is full.
+Ready for taking off ...
+The aircraft has landed.
+Passengers are disembarking...
+	 Rebecca Tamar Gola, ticket: 30098, carry_on: False
+	 Junaid Donelly-Higgins, ticket: 30074, carry_on: False
+	 Max Wolf, ticket: 30086, carry_on: False
+	 Austin Todd Daly, ticket: 30042, carry_on: False
+	 Asha Zara Lockhart, ticket: 30018, carry_on: False
+	 Max Nasir, ticket: 40047, carry_on: False
+	 Blaise Grudzinski, ticket: 40095, carry_on: False
+	 Kiera Meilunas, ticket: 40011, carry_on: False
+	 Leiah Moon, ticket: 40059, carry_on: False
+	 Daniel Eduardo Bailey, ticket: 40051, carry_on: False
+	 Katie Anne Leonardi, ticket: 40027, carry_on: False
+	 Daniel Eduardo Carnation, ticket: 40015, carry_on: False
+	 Steven A Phouthavong, ticket: 40043, carry_on: False
+	 Joshua D Moon, ticket: 30066, carry_on: True
+	 Brett Michael Gonzalez, ticket: 30046, carry_on: True
+	 Chris A Gonzalez, ticket: 30058, carry_on: True
+	 Srikanth Bissen, ticket: 30062, carry_on: True
+	 Parker Robert Quispe, ticket: 30054, carry_on: True
+	 Gabi M Clifford, ticket: 40099, carry_on: True
+	 Soo Tucker, ticket: 40083, carry_on: True
+	 Bendrix Nakuusiaq Higgins, ticket: 40039, carry_on: True
+	 Will Taylor Gola, ticket: 40031, carry_on: True
+	 Justin Bradley Segraves, ticket: 40035, carry_on: True
+	 Victoria Galarza, ticket: 40063, carry_on: True
+	 Joshua D Gonzalez, ticket: 40003, carry_on: True
+Passengers are boarding the aircraft...
+	 Patrick Ickes, ticket: 30082, carry_on: False
+	 Tyler Christopher Tran, ticket: 20029, carry_on: False
+	 Charles Higgins, ticket: 20017, carry_on: True
+	 Austin Donelly-Higgins, ticket: 20085, carry_on: True
+	 Kiera Frauenknecht, ticket: 20101, carry_on: False
+	 Sean Thomas Phouthavong, ticket: 20037, carry_on: False
+	 Thomas Peter Tucker, ticket: 20053, carry_on: False
+	 Joshua D Kozak, ticket: 20077, carry_on: False
+	 Brendan Lawrence Dorrell, ticket: 20057, carry_on: True
+	 Conor Gregory Kinsey, ticket: 20065, carry_on: True
+	 Diana Christina McGlynn, ticket: 20033, carry_on: True
+	 Xian Harris-Battles, ticket: 20089, carry_on: False
+	 Catherine Ferreira, ticket: 20013, carry_on: True
+	 Rachel Marie Peryer Jr, ticket: 20041, carry_on: False
+	 Christian Sgambati, ticket: 20005, carry_on: True
+	 Zach C Becker, ticket: 10048, carry_on: False
+	 Joshua D Pastore III, ticket: 10072, carry_on: True
+	 Patrick Jackson, ticket: 10040, carry_on: False
+	 Srikanth Miller, ticket: 10080, carry_on: True
+	 Steven A Phouthavong, ticket: 10076, carry_on: False
+	 Mark Anthony Carnation, ticket: 10100, carry_on: True
+	 Soo Yakobchuk, ticket: 10056, carry_on: False
+	 Will Taylor McGlynn, ticket: 10004, carry_on: False
+	 Cindy Baba, ticket: 10092, carry_on: True
+	 Josh Matthew Fried, ticket: 10052, carry_on: True
+The aircraft is full.
+Ready for taking off ...
+The aircraft has landed.
+Passengers are disembarking...
+	 Will Taylor McGlynn, ticket: 10004, carry_on: False
+	 Soo Yakobchuk, ticket: 10056, carry_on: False
+	 Steven A Phouthavong, ticket: 10076, carry_on: False
+	 Patrick Jackson, ticket: 10040, carry_on: False
+	 Zach C Becker, ticket: 10048, carry_on: False
+	 Rachel Marie Peryer Jr, ticket: 20041, carry_on: False
+	 Xian Harris-Battles, ticket: 20089, carry_on: False
+	 Joshua D Kozak, ticket: 20077, carry_on: False
+	 Thomas Peter Tucker, ticket: 20053, carry_on: False
+	 Sean Thomas Phouthavong, ticket: 20037, carry_on: False
+	 Kiera Frauenknecht, ticket: 20101, carry_on: False
+	 Tyler Christopher Tran, ticket: 20029, carry_on: False
+	 Patrick Ickes, ticket: 30082, carry_on: False
+	 Josh Matthew Fried, ticket: 10052, carry_on: True
+	 Cindy Baba, ticket: 10092, carry_on: True
+	 Mark Anthony Carnation, ticket: 10100, carry_on: True
+	 Srikanth Miller, ticket: 10080, carry_on: True
+	 Joshua D Pastore III, ticket: 10072, carry_on: True
+	 Christian Sgambati, ticket: 20005, carry_on: True
+	 Catherine Ferreira, ticket: 20013, carry_on: True
+	 Diana Christina McGlynn, ticket: 20033, carry_on: True
+	 Conor Gregory Kinsey, ticket: 20065, carry_on: True
+	 Brendan Lawrence Dorrell, ticket: 20057, carry_on: True
+	 Austin Donelly-Higgins, ticket: 20085, carry_on: True
+	 Charles Higgins, ticket: 20017, carry_on: True
+Simulation complete. Statistics: 4 flights, 100 passengers are at their destination

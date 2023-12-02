@@ -1,0 +1,10 @@
+text1
+has test in which a single RED paintball has the max number of cows painted
+test2
+has multiple paintballs like RED, PINK, WHITE that will paint max number of cows, so one will be chosen and displayed
+test3
+has no cows that can be painted with any paintballs
+test4
+has only one cow that can be painted with one paintball
+test5
+every paintball triggers every other paintball except one cow all are coloured
